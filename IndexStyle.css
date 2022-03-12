@@ -23,3 +23,15 @@ iframe{
   height: 400px;
   margin: 50px;
 }
+
+#ReviewBox{
+  height: 20px;
+  width: 500px;
+  margin: 25px;
+  padding: 2px;
+  text-align: left;
+}
+
+#p1{
+  margin: 25px;
+}
