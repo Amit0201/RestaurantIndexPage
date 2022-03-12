@@ -39,5 +39,9 @@ iframe{
 .Reviews{
   font-size: 24px;
   font-family: monospace;
+}
 
+#link1{
+  margin:25px;
+  font-size: 24px;
 }
