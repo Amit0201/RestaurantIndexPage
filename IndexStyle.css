@@ -9,19 +9,19 @@ p{
   font-size: 28px;
   font-family: monospace;
   font-weight: bold;
-  margin: 50px;
+  margin: 25px;
 }
 
 ol{
   font-size: 24px;
   font-family: monospace;
-  margin-left: 55px;
+  margin-left: 25px;
 }
 
 iframe{
   width: 600px;
   height: 400px;
-  margin: 50px;
+  margin: 25px;
 }
 
 #ReviewBox{
@@ -34,4 +34,10 @@ iframe{
 
 #p1{
   margin: 25px;
+}
+
+.Reviews{
+  font-size: 24px;
+  font-family: monospace;
+
 }
